@@ -3,11 +3,11 @@
 
 Name: Raghav Dev
 
-Reg No:25BSA10136
+Reg No: 25BSA10136
 
 Course: CSE0001 - Digital Literacy
 
-Branch:B.Tech CSE Cloud Computing
+Branch: CSE Cloud Computing
 
 ## Project Overview
 
